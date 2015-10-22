@@ -12,3 +12,17 @@ C:\Code\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resou
 C:\Code\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
 C:\Code\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
 C:\Code\C#\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Code\C#\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Code\C#\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Code\C#\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.csprojResolveAssemblyReference.cache
+C:\Code\C#\AsyncAwait\obj\Debug\MainWindow.g.cs
+C:\Code\C#\AsyncAwait\obj\Debug\App.g.cs
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait_MarkupCompile.cache
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait_MarkupCompile.lref
+C:\Code\C#\AsyncAwait\obj\Debug\MainWindow.baml
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.g.resources
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.Properties.Resources.resources
+C:\Code\C#\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.Cache
